@@ -1,0 +1,8 @@
+<svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+    <!-- Eye outline -->
+    <path d="M40 15C20 15 5 40 5 40s15 25 35 25 35-25 35-25-15-25-35-25z" stroke="black"
+        stroke-width="4" fill="none" />
+
+    <!-- Eye pupil -->
+    <circle cx="40" cy="40" r="12" stroke="black" stroke-width="4" fill="none" />
+</svg>

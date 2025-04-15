@@ -1,0 +1,23 @@
+# IDE files
+.idea
+# git
+.git
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+#eslint
+.eslintcache
+
+next.config.js
+
+src/api/generated-code
